@@ -1,0 +1,15 @@
+/Users/natasha/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole
+/Users/natasha/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.deps.json
+/Users/natasha/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.runtimeconfig.json
+/Users/natasha/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.dll
+/Users/natasha/Examples/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.pdb
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.csproj.AssemblyReference.cache
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.AssemblyInfoInputs.cache
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.AssemblyInfo.cs
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.csproj.CoreCompileInputs.cache
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.dll
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/refint/Example001_HellowConsole.dll
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.pdb
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.genruntimeconfig.cache
+/Users/natasha/Examples/Example001_HellowConsole/obj/Debug/net6.0/ref/Example001_HellowConsole.dll
