@@ -1,0 +1,15 @@
+/Users/natasha/Examples/Examples/Example002_HelloUsers/bin/Debug/net6.0/Example002_HelloUsers
+/Users/natasha/Examples/Examples/Example002_HelloUsers/bin/Debug/net6.0/Example002_HelloUsers.deps.json
+/Users/natasha/Examples/Examples/Example002_HelloUsers/bin/Debug/net6.0/Example002_HelloUsers.runtimeconfig.json
+/Users/natasha/Examples/Examples/Example002_HelloUsers/bin/Debug/net6.0/Example002_HelloUsers.dll
+/Users/natasha/Examples/Examples/Example002_HelloUsers/bin/Debug/net6.0/Example002_HelloUsers.pdb
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.csproj.AssemblyReference.cache
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.AssemblyInfoInputs.cache
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.AssemblyInfo.cs
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.csproj.CoreCompileInputs.cache
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.dll
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/refint/Example002_HelloUsers.dll
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.pdb
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/Example002_HelloUsers.genruntimeconfig.cache
+/Users/natasha/Examples/Examples/Example002_HelloUsers/obj/Debug/net6.0/ref/Example002_HelloUsers.dll
